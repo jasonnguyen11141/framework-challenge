@@ -1,8 +1,8 @@
 body{
-    background-color: limegreen;
+    background-color: green;
     grid: 100%;
     text-align: center;
-    color: green;
+    color: limegreen;
 }
 form{
     width: 400px;
@@ -12,10 +12,10 @@ form{
 button{
     margin-top: 10px;
     width: 400px;
-    border-color: green;
+    border-color: rgb(20, 114, 20);
     border-radius: 5px;
-    background-color: green;
-    color: limegreen;
+    background-color: rgb(18, 219, 18);
+    color: rgb(0, 76, 0);
 }
 .group-name{
     margin-top: 40px;
